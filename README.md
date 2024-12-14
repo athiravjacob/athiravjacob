@@ -22,5 +22,8 @@ I'm **Athira**, a **curious MERN Stack Developer** passionate about building sca
 - [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/athira-v-jacob-920487246/))
 - [Email](athiravj1497@gmail.com)
 
+## Fun Fact 🎉:
+- I sometimes spend more time picking the perfect variable name than writing the actual code. 🤔
+
 
 Let’s connect and collaborate on something amazing! ✨
