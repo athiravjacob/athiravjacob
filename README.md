@@ -3,7 +3,7 @@
 I'm **Athira**, a **curious MERN Stack Developer** passionate about building scalable, dynamic web applications. I'm always exploring new technologies and constantly learning to improve my skills. Currently, I'm diving deep into the **MERN stack (MongoDB, Express.js, React, Node.js)** while expanding my knowledge with **TypeScript**, **AWS**, and modern web development practices.
 
 ## 🚀 What I'm Working On:
-- Building robust **e-commerce platforms** with the **MERN stack**.
+- Building  **Neighborly** - a platform to connect people who are in need with household chores with people who are ready to assist with the **MERN stack**.
 - Crafting modern **React applications** with **TypeScript** for clean, maintainable code.
 - Experimenting with **cloud computing** through **AWS** for scalable solutions.
 - Working on **serverless architecture** and integrating APIs to enhance app functionality.
